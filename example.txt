@@ -1,1 +1,4 @@
 Git information
+Version control system
+Compared and analyse code
+Merge code from different computer and different team members
